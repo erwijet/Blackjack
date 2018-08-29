@@ -1,7 +1,0 @@
-C:\Users\tyler\Documents\Github\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
-C:\Users\tyler\Documents\Github\Blackjack\Blackjack\bin\Debug\Blackjack.exe
-C:\Users\tyler\Documents\Github\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
-C:\Users\tyler\Documents\Github\Blackjack\Blackjack\obj\Debug\Blackjack.csprojAssemblyReference.cache
-C:\Users\tyler\Documents\Github\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
-C:\Users\tyler\Documents\Github\Blackjack\Blackjack\obj\Debug\Blackjack.exe
-C:\Users\tyler\Documents\Github\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
